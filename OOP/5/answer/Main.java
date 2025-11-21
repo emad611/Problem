@@ -4,7 +4,7 @@ package com.model;
 import com.model.service.BaseEntity;
 import com.model.service.Player;
 import com.model.service.Shrit;
-// relationship
+// Association relationship
 public class Main {
     public static void main(String[] args) {
         Player player = new Player();
